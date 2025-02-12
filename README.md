@@ -64,7 +64,7 @@ The project is designed primarily for **educational and research purposes**, off
   pip install pyopencl cupy
   ```
 
-### Running the Simulation
+### Running the Simulation (Not ready yet)
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/physics-simulation.git
@@ -75,7 +75,7 @@ The project is designed primarily for **educational and research purposes**, off
    python main.py
    ```
 3. For the web interface:
-   //```bash
+   ```bash
    flask run
    ```
    Then, open `http://localhost:5000` in a browser.
