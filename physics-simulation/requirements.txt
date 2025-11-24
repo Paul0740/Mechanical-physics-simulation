@@ -1,6 +1,0 @@
-numpy
-warp
-flask
-trimesh
-matplotlib
-OpenGL
